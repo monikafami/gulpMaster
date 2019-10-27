@@ -1,0 +1,29 @@
+{
+  "name": "gulp1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszcyganiak2/gulp.git"
+  },
+  "author": "Łukasz Cyganiak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukaszcyganiak2/gulp/issues"
+  },
+  "homepage": "https://github.com/lukaszcyganiak2/gulp#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.6.1",
+    "browser-sync": "^2.26.7",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-v3": "^3.12.1"
+  }
+}
